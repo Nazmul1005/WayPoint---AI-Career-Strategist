@@ -1,4 +1,4 @@
-# 🎯 WayPoint - AI Career Strategist
+## 🎯 WayPoint - AI Career Strategist
 
 **Your Expert Career Development Coach powered by LangChain and Streamlit**
 
